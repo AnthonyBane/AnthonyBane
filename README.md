@@ -6,7 +6,7 @@
         🏦 I am a senior data analyst with the National Health Service of England.<br>
         🌱 Currently studying machine learning, full-stack technologies, and rediscovering my love for programming.<br>
         👯 Open to making new connections.<br><br>
-        ⚡ Fun fact: I am a professional ski instructor, if we start talking about it, I won't stop.<br>
+        ⚡ Fun fact: I am a professional ski instructor, if we start talking about it, I won't stop... Do you ski? ⛷️<br>
     </i><br>
     <a href="https://www.linkedin.com/in/anthony-bane">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -14,14 +14,32 @@
     <a href="https://leetcode.com/AnthonyBane">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
+    <a href="https://www.codecademy.com/profiles/AnthonyBane">
+        <img src="https://img.shields.io/badge/Codecademy-blue?style=flat-square&logo=Codecademy" alt="Codecademy">
+    </a>
 </p>
 
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AnthonyBane)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)](https://github.com/AnthonyBane)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AnthonyBane)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/AnthonyBane)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)](https://github.com/AnthonyBane)
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/AnthonyBane) [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/AnthonyBane)
+
+
+<!-- ### Projects 
+TODO - fill this section out. 
+-->
+
+### Currently Studying
+
+[![Codecademy](https://img.shields.io/badge/Codecademy-black?style=for-the-badge&logo=Codecademy)](https://www.codecademy.com/profiles/AnthonyBane)
+<p>
+  <ul>
+    <li>🤖 Machine Learning and AI Fundamentals</li>
+  </ul>
+</p> 
 
 ### Operating Systems
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/AnthonyBane)
@@ -51,7 +69,12 @@
 </p>
 
 <!--
-**AnthonyBane/AnthonyBane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Profile hugely inspired by - https://github.com/wervlad/ go check him out!
+
+Profile view counter from - https://github.com/antonkomarev/github-profile-views-counter
+
+This is the template GitHub gives you, keeping it around for additional inspiration.
 
 Here are some ideas to get you started:
 
@@ -64,5 +87,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Profile inspired by - https://github.com/wervlad/
 -->
