@@ -57,7 +57,7 @@ TODO - fill this section out.
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyBane&theme=transparent" />
   </a>
   <a href="https://github.com/AnthonyBane">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBane&langs_count=10&exclude_repo=&hide=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBane&langs_count=10&exclude_repo=&hide=&card_width=699&hide_border=true&theme=transparent" />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBane&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> -->
   </a>
 </p>
