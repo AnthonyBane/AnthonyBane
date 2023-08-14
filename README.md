@@ -17,6 +17,10 @@
     <a href="https://www.codecademy.com/profiles/AnthonyBane">
         <img src="https://img.shields.io/badge/Codecademy-blue?style=flat-square&logo=Codecademy" alt="Codecademy">
     </a>
+    <a href="https://www.codewars.com/users/AnthonyBane">
+        <img src="https://img.shields.io/badge/Codewars-blue?style=flat-square&logo=codewars&logoColor=grey" alt="CodeWars">
+    </a>
+    
 </p>
 
 
@@ -25,14 +29,28 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AnthonyBane)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/AnthonyBane)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)](https://github.com/AnthonyBane)
-[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/AnthonyBane) [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/AnthonyBane)
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/AnthonyBane) 
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/AnthonyBane)
 
 
-<!-- ### Projects 
-TODO - fill this section out. 
--->
+### Projects 
 
-### Currently Studying
+#### Activity Working On
+
+<p>
+    <ul>
+        <li>✅ ToDoist Organiser (Private) - This Chrome extension for <a href="https://todoist.com/">ToDoist</a> is designed to help in planning days through time-boxed task groupings and manually ordered tasks from a filtered task list. I am currently studying a <a href="https://www.codecademy.com/enrolled/paths/build-web-apps-with-react">CodeCademy course</a> to develop the skills to make something a bit more visually appealing but I will open-source this later and make the extension available to all when the kinks are worked out.
+        </li>
+        <li>🎮
+            <a href="https://github.com/AnthonyBane/Pong">Pong (Public)</a>
+            - This repository is an example of how to start with a poorly written script and develop it over time. I am slowly working on this project when I have some spare time.
+        </li>
+    </ul>
+</p>
+
+_Note: I currently have 22 projects planned._  
+
+### Studying
 
 [![Codecademy](https://img.shields.io/badge/Codecademy-black?style=for-the-badge&logo=Codecademy)](https://www.codecademy.com/profiles/AnthonyBane)
 <p>
@@ -72,7 +90,7 @@ TODO - fill this section out.
 
 <!--
 
-Profile hugely inspired by - https://github.com/wervlad/ go check him out!
+Profile hugely inspired by - https://github.com/wervlad/ go check him out! Edit: 14/08/2023 - Account name changed or deleted. Can't link to him/her anymore.
 
 Profile view counter from - https://github.com/antonkomarev/github-profile-views-counter
 
