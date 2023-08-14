@@ -38,6 +38,7 @@ TODO - fill this section out.
 <p>
   <ul>
     <li>🤖 Machine Learning and AI Fundamentals</li>
+    <li>⚛️ Create a Front-End App with React</li>
   </ul>
 </p> 
 
