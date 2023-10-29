@@ -57,6 +57,7 @@ _Note: I currently have 22 projects planned._
   <ul>
     <li>🤖 Machine Learning and AI Fundamentals</li>
     <li>⚛️ Create a Front-End App with React</li>
+    <li>🈸 Build Python Web Apps with Flask</li>
   </ul>
 </p> 
 
