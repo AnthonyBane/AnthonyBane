@@ -29,6 +29,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AnthonyBane)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/AnthonyBane)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)](https://github.com/AnthonyBane)
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=Csharp)](https://github.com/AnthonyBane)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/AnthonyBane) 
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/AnthonyBane)
 
@@ -39,8 +40,20 @@
 
 <p>
     <ul>
-        <li>🤖 <a href="https://github.com/AnthonyBane/Jira-to-Notion">Jira to Notion</a> (<i>Public</i>) - This project connects Jira and Notion such that you can populate a Notion database from a series of JQL queries. I may do the same with ToDoist later and scrap the ToDoist organiser project.
+        <li>
+            _Pending updates_
         </li>
+    </ul>
+</p>
+
+_Note: I currently have too many projects planned..._  
+
+#### Benched Projects
+
+I will return to these projects when I have time.
+
+<p>
+    <ul>    
         <li>🎮
             <a href="https://github.com/AnthonyBane/Pong">Pong</a> (<i>Public</i>)
             - This repository is an example of how to start with a poorly written script and develop it over time. I am slowly working on this project when I have some spare time.
@@ -48,25 +61,25 @@
         <li>✅ 
             <a href="https://github.com/AnthonyBane/ToDoist-Organiser">ToDoist Organiser</a> (<i>Private</i>) - This Chrome extension for <a href="https://todoist.com/">ToDoist</a> is designed to help in planning days through time-boxed task groupings and manually ordered tasks from a filtered task list. I am currently studying a <a href="https://www.codecademy.com/enrolled/paths/build-web-apps-with-react">CodeCademy course</a> to develop the skills to make something a bit more visually appealing but I will open-source this later and make the extension available to all when the kinks are worked out.
         </li>
+        <li>🤖 <a href="https://github.com/AnthonyBane/Jira-to-Notion">Jira to Notion</a> (<i>Public</i>) - This project connects Jira and Notion such that you can populate a Notion database from a series of JQL queries. I may do the same with ToDoist later and scrap the ToDoist organiser project.
+        </li>
     </ul>
 </p>
 
-_Note: I currently have too many projects planned..._  
+### Current Studying Foci
 
-### Studying
-
-[![Codecademy](https://img.shields.io/badge/Codecademy-black?style=for-the-badge&logo=Codecademy)](https://www.codecademy.com/profiles/AnthonyBane)
+[![Codecademy](https://img.shields.io/badge/Codecademy-green?style=for-the-badge&logo=Codecademy)](https://www.codecademy.com/profiles/AnthonyBane)
 <p>
   <ul>
-    <li>🤖 Machine Learning and AI Fundamentals</li>
+    <li>🤖 Machine Learning/AI Engineer</li>
     <li>⚛️ Create a Front-End App with React</li>
     <li>🈸 Build Python Web Apps with Flask</li>
   </ul>
 </p> 
 
 ### Operating Systems
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/AnthonyBane)
-[![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=iOS)](https://github.com/AnthonyBane)
+[![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)](https://github.com/AnthonyBane)
+[![iOS](https://img.shields.io/badge/iOS-red?style=for-the-badge&logo=iOS)](https://github.com/AnthonyBane)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/AnthonyBane)
 
 <details>
