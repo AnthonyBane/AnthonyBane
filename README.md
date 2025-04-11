@@ -4,9 +4,9 @@
 <p align="center">
     <i>
         🏦 I am a senior data engineer at the National Health Service of England.<br>
-        🌱 Currently studying machine learning, full-stack technologies such as React and Flask, and working on projects to make my life more fun and easy!<br>
-        👯 Open to making new connections.<br><br>
-        ⚡ Fun fact: I am a professional ski instructor, if we start talking about it, I won't stop... Do you ski? ⛷️<br>
+        🌱 Currently studying full-stack technologies such as Flutter/Dart, React, and Flask, and working on projects to make my life more fun and easy!<br>
+        👯 Open to making new connections or job opportunities.<br><br>
+        ⚡ Fun fact: I was a professional ski instructor, if we start talking about it, I won't stop... Do you ski? ⛷️<br>
     </i><br>
     <a href="https://www.linkedin.com/in/anthony-bane">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -26,6 +26,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AnthonyBane)
+[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/AnthonyBane)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AnthonyBane)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/AnthonyBane)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)](https://github.com/AnthonyBane)
@@ -41,7 +42,7 @@
 <p>
     <ul>
         <li>
-            _Pending updates_
+            🗺️ - <a href="https://github.com/AnthonyBane/PolyLingua">PolyLingua</a> - A cross-platform language learning application designed to aid me in learning Spanish and to solidify fullstack technologies, with AI integrations and Cloud data storage and authentication.
         </li>
     </ul>
 </p>
@@ -66,14 +67,12 @@ I will return to these projects when I have time.
     </ul>
 </p>
 
-### Current Studying Foci
+### Current Studying Focus
 
 [![Codecademy](https://img.shields.io/badge/Codecademy-green?style=for-the-badge&logo=Codecademy)](https://www.codecademy.com/profiles/AnthonyBane)
 <p>
   <ul>
-    <li>🤖 Machine Learning/AI Engineer</li>
-    <li>⚛️ Create a Front-End App with React</li>
-    <li>🈸 Build Python Web Apps with Flask</li>
+    <li>🤖 Full-Stack Engineer</li>
   </ul>
 </p> 
 
