@@ -44,6 +44,9 @@
         <li>
             🗺️ - <a href="https://github.com/AnthonyBane/PolyLingua">PolyLingua</a> - A cross-platform language learning application designed to aid me in learning Spanish and to solidify fullstack technologies, with AI integrations and Cloud data storage and authentication.
         </li>
+        <li>
+            🏸 - <a href="https://github.com/AnthonyBane/BadmintonRoundRobinApp">BadmintonRoundRobinApp</a> - A simple webapp to assist my badminton's round-robin nights.
+        </li>
     </ul>
 </p>
 
